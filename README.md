@@ -1,5 +1,5 @@
 # Escoteiro Local
-É um template para site de grupos escoteiros, voltado principalmente para aqueles que tem pouca habilidae ou nenhuma para criar sua propria página e quem sabe esse template torne-se o modelo padrão para as unidades escoteiras.
+É um template para site de grupos escoteiros, voltado principalmente para aqueles que tem pouca habilidade ou nenhuma para criar sua propria página e quem sabe esse template torne-se o modelo padrão para as unidades escoteiras.
 
 Vamos melhorar este ***template***, fazer com que seja o melhor.
 
